@@ -1,8 +1,8 @@
 ---
-title: "hello-world"
+title: "HelloWorld"
 author: "vipul-DS"
 date: "02/01/2022"
-output: pdf_document
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
